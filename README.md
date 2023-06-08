@@ -1,0 +1,3 @@
+Create a Markdown file using a text editor or a dedicated Markdown application. ...
+Open the Markdown file in a Markdown application.
+Use the Markdown application to convert the Markdown file to an HTML document.
