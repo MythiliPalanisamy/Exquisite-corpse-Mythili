@@ -19,3 +19,7 @@ RandomProject is a groundbreaking software project that aims to transform the wa
 * ***Reminders and Notifications:*** RandomProject ensures that users never miss important financial deadlines. The project sends personalized reminders and notifications for bill payments, budget updates, and financial milestones. This feature keeps users informed and helps them stay on top of their financial responsibilities.
 
 ### Added by Andreia.
+
+<!-- This is a single line comment -->
+### Added by Daniel.
+This is a new line of text.
